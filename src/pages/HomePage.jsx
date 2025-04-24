@@ -410,7 +410,7 @@ const HomePage = () => {
             <Title>Discover the Essence of Luxury</Title>
             <Sub>Exclusive Perfumes for Every Occasion</Sub>
             <ButtonGroup>
-              <Button primary onClick={() => navigate("/shop")}>
+              <Button primary onClick={() => navigate("/collection")}>
                 Shop Now
               </Button>
               <Button onClick={() => navigate("/about")}>Learn More</Button>
